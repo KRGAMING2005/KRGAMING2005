@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KRGAMING2005
-- 👀 I’m interested in programming in: Java, HTML, css, Javascript and Python
-- 🌱 I’m currently learning vuejs
+- 👀 I’m interested in programming in: Java, HTML, css, and Javascript
+- 🌱 I’m currently learning svelte
 
 [![wakatime](https://wakatime.com/badge/user/98c27f85-ce2a-4c09-a440-80047219fac4.svg)](https://wakatime.com/@98c27f85-ce2a-4c09-a440-80047219fac4)
 
